@@ -1,2 +1,3 @@
-# vim-conf
-my vim config
+# scaffolding
+
+Some of my usual scripts, config files, etc.
